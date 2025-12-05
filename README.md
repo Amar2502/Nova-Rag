@@ -54,7 +54,7 @@ A powerful Retrieval-Augmented Generation (RAG) application built with Streamlit
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Amar2502/Nova-Rag.git
 cd Nova Rag
 ```
 
